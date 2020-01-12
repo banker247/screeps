@@ -16,11 +16,7 @@ console.log("Energy = " + sEnergy)
 console.log("Progress = " + cProgress + "/ " + cProgressTotal)
 
 
-console.log("work")
 
-
-
-//check RCL
 
 
 RCL2.run();
