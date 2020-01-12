@@ -16,7 +16,7 @@ console.log("Energy = " + sEnergy)
 console.log("Progress = " + cProgress + "/ " + cProgressTotal)
 
 
-
+console.log("work")
 
 
 
